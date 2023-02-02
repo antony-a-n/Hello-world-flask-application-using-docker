@@ -1,4 +1,4 @@
-In this example, we are setting up a basic hello world application using Dockerfile
+In this example, we are setting up a basic hello world application using flask and Dockerfile
 
 output
 ======
